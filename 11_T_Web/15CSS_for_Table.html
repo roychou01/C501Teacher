@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- CSS的 inline 寫法，會造成HTML的程式碼變得凌亂不易維護，另一方面整個標籤寫完會覺得異常的肥胖
+    另一方面，對於相同標籤進行相同外觀樣式設定時，這種寫法會變地相當沒有效率 -->
+
+    <table style="border: 2px solid black;width: 500px;">
+
+
+        <tfoot>
+            <tr>
+                <td colspan="3">製表人:小明</td>
+
+
+            </tr>
+        </tfoot>
+
+
+        <tr>
+            <td style="border: 2px solid black;">張三</td>
+            <td>88</td>
+            <td>95</td>
+
+        </tr>
+        <tr>
+            <td>李四</td>
+            <td>76</td>
+            <td>80</td>
+
+        </tr>
+        <tr>
+            <td>王五</td>
+            <td>78</td>
+            <td>91</td>
+
+        </tr>
+
+
+
+        <thead>
+            <tr>
+                <td>姓名</td>
+                <td>國文</td>
+                <td>數學</td>
+
+            </tr>
+        </thead>
+        <caption>
+            成績單
+        </caption>
+
+    </table>
+
+
+    <table style="border: 2px solid black;width: 400px;text-align: center;">
+        <caption>
+            成績單
+        </caption>
+        <thead>
+            <tr style="background-color: black;color: white;">
+                <th style="border: 1px dotted black;">姓名</th>
+                <th style="border: 1px solid black;">國文</th>
+                <th style="border: 1px solid black;">數學</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border: 1px solid black;text-align: left;">張三</td>
+                <td style="border: 1px solid black;">80</td>
+                <td style="border: 1px solid black;">75</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black;">李四</td>
+                <td style="border: 1px solid black;">96</td>
+                <td style="border: 1px solid black;">77</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid black;">王五</td>
+                <td style="border: 1px solid black;">89</td>
+                <td style="border: 1px solid black;">56</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" style="border: 1px solid black;">製表人:王小明</td>
+                
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

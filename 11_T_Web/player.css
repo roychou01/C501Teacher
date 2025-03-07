@@ -1,0 +1,125 @@
+:root{
+    --vol-thumb-appearance: none;
+    --vol-thumb-background-color: black;
+    --vol-thumb-width: 25px;
+    --vol-thumb-height: 20px;
+    --vol-thumb-border-radius: 5px;
+
+    --progress-appearance: none;
+    --progress-width: 5px;
+    --progress-height: 5px;
+    --progress-background-color: rgb(197, 7, 0);
+    --progress-border-radius: 50%;
+    --progress-transition: 0.5s;
+    --progress-hover-width: 15px;
+    --progress-hover-height: 15px;
+}
+
+
+#controlPanel {
+    width: 550px;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+}
+
+#controlPanel span {
+    font-family: webdings;
+    cursor: pointer;
+    font-size: 3rem;
+    border: 1px solid black;
+    box-shadow: 2px 2px 3px black;
+    cursor: pointer;
+}
+
+#controlPanel input {
+    cursor: pointer;
+}
+
+#controlPanel input:nth-of-type(1) {
+    appearance: none;
+    width: 84%;
+    height: 5px;
+    border: 1px solid gray;
+}
+
+#controlPanel input:nth-of-type(1)::-webkit-slider-thumb{
+    appearance: var(--vol-thumb-appearance);
+    background-color: var(--vol-thumb-background-color);
+    width: var(--vol-thumb-width);
+    height: var(--vol-thumb-height);
+    border-radius: var(--vol-thumb-border-radius);
+}
+
+
+#controlPanel input:nth-of-type(1)::-moz-range-thumb{
+    appearance: var(--vol-thumb-appearance);
+    background-color: var(--vol-thumb-background-color);
+    width: var(--vol-thumb-width);
+    height: var(--vol-thumb-height);
+    border-radius: var(--vol-thumb-border-radius);
+}
+
+
+
+#controlPanel>input[type="button"] {
+    border-radius: 50%;
+    border: 0;
+    box-shadow: 0 0 1px black;
+}
+
+#controlPanel>input[type="text"] {
+    width: 25px;
+    border: 0;
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+
+#controlPanel input:nth-of-type(5) {
+    appearance: none;
+    width: 100%;
+    height: 5px;
+    background-color: rgb(236, 236, 234);
+    margin-bottom: 20px;
+}
+#controlPanel input:nth-of-type(5)::-webkit-slider-thumb {
+    appearance: var(--progress-appearance);
+    background-color: var(--progress-background-color);
+    width: var(--progress-width);
+    height: var(--progress-height);
+}
+
+#controlPanel input:nth-of-type(5)::-webkit-slider-thumb:hover {
+    width: var(--progress-hover-width);
+    height: var(--progress-hover-height);
+    border-radius: var(--progress-border-radius);
+    transition: var(--progress-transition);
+}
+
+#controlPanel input:nth-of-type(5)::-moz-range-thumb {
+    appearance: var(--progress-appearance);
+    background-color: var(--progress-background-color);
+    width: var(--progress-width);
+    height: var(--progress-height);
+}
+
+#controlPanel input:nth-of-type(5)::-moz-range-thumb:hover {
+    width: var(--progress-hover-width);
+    height: var(--progress-hover-height);
+    border-radius: var(--progress-border-radius);
+    transition: var(--progress-transition);
+}
+
+#controlPanel>div {
+    text-align: center;
+}
+
+#controlPanel>select {
+    width: 100%;
+    font-size: 16pt;
+    text-align: center;
+    background-color: rgb(217, 233, 228);
+    font-weight: 900;
+}

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #table1 {
+            border: 3px groove black;
+            width: 600px;
+            background-color: azure;
+            text-align: center;
+            /* height: 500px; */
+
+        }
+
+        #table1 td {
+            border: 1px solid black;
+
+
+        }
+
+        #table1 thead tr {
+            background-color: black;
+            color: white;
+            font-weight: 900;
+        }
+
+        #table1 thead td {
+
+            border: 1px solid white;
+        }
+
+        #table1 tfoot tr {
+            text-align: left;
+        }
+
+        /* #table1 tbody tr:first-child + tr{
+            font-weight: 900;
+        } */
+
+        #table1 tbody td:first-child{
+            font-weight: 900;
+            color:blue;
+        }
+
+        #table1 tbody td{
+            color:green;
+        }
+
+        #table1 tbody tr:first-child+tr td:first-child+td{
+            color:red;
+        }
+
+        #table1 tbody tr:nth-child(2n+1){
+            background-color: lightgray;
+        }
+
+        #table1 tbody tr:nth-child(2n){
+            background-color: lightblue;
+        }
+
+        #table1 tbody tr:hover{
+            background-color: yellow;
+            color:blueviolet;  /* tr 沒有效果 */
+            font-size:1.2rem;
+        }
+
+        .pink {
+            background-color: pink;
+        }
+    </style>
+</head>
+
+<body>
+
+    
+    <table id="table1">
+        <caption>
+            成績單
+        </caption>
+        <thead>
+            <tr>
+                <td>姓名</td>
+                <td>國文</td>
+                <td>數學</td>
+
+            </tr>
+        </thead>
+        <tr>
+            <td>張三</td>
+            <td>88</td>
+            <td>95</td>
+
+        </tr>
+        <tr>
+            <td>李四</td>
+            <td>76</td>
+            <td>80</td>
+
+        </tr>
+        <tr>
+            <td>王五</td>
+            <td>78</td>
+            <td>91</td>
+
+        </tr>
+        <tr>
+            <td>張三</td>
+            <td>88</td>
+            <td>95</td>
+
+        </tr>
+        <tr>
+            <td>李四</td>
+            <td>76</td>
+            <td>80</td>
+
+        </tr>
+        <tr>
+            <td>王五</td>
+            <td>78</td>
+            <td>91</td>
+
+        </tr>
+        <tfoot>
+            <tr>
+                <td colspan="3">製表人:小明</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <hr>
+
+    <table id="table2">
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="pink"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td class="pink"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td class="pink"></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </table>
+
+</body>
+
+</html>

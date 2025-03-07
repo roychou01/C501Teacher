@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <span style="color:red">紅</span><span style="color:orange">橙</span><span style="color:yellow">黃</span>
+    <span style="color:green">綠</span><span style="color:blue">藍</span><span style="color:indigo">靛</span>
+    <span style="color:violet">紫</span>
+    
+    <hr>
+    
+
+    <script>
+        //陣列(Array)
+        //一種資料結構
+
+        var r1 = "紅";
+        var r2 = "橙";
+        var r3 = "黃";
+
+        var Rainbow = ["紅", "橙", "黃", "綠", "藍", "靛", "紫"];
+
+        //document.write( typeof(Rainbow) );
+
+        document.write(Rainbow);
+        document.write("<hr>");
+
+        document.write(Rainbow[0]);
+        document.write(Rainbow[1]);
+        document.write(Rainbow[2]);
+        document.write(Rainbow[3]);
+        document.write(Rainbow[4]);
+        document.write(Rainbow[5]);
+        document.write(Rainbow[6]);
+
+        document.write("<hr>");
+
+        //利用迴圈讀出陣列值
+        for (var i = 0; i < 7; i++) {
+            document.write(Rainbow[i]);
+        }
+
+        document.write("<hr>");
+
+        //修正上面的迴圈增加程式彈性
+        //讓程式抓取陣列的長度
+        for (var i = 0; i < Rainbow.length; i++) {
+            document.write(Rainbow[i]);
+        }
+
+        document.write("<hr>");
+
+        //拜訪迴圈,用於拜訪集合資料的for迴圈
+        //for...in....
+        document.write("彩紅有7種顏色,分別是:");
+        for (var i in Rainbow) {
+
+            document.write((parseInt(i) + 1) + "-");
+            document.write(Rainbow[i] + ", ");
+        }
+
+        document.write("<hr>");
+        //for...of....
+        for (var item of Rainbow) {
+            document.write(item);
+        }
+
+        document.write("<hr>");
+
+        //實例應用
+
+        /*
+        部門代碼	部門名稱
+           01	    資訊部
+           02	    管理部
+           03	    行銷部
+           04	    企劃部
+           05	    人事處
+           06	    研發處
+        */
+
+        var deptNo = ["01", "02", "03", "04", "05", "06"];
+        var deptName = ["資訊部", "管理部", "行銷部", "企劃部", "人事處", "研發處"];
+
+        for (var i in deptName) {
+            document.write(deptNo[i] + "-" + deptName[i] + "<br>");
+        }
+        document.write("<hr>");
+
+
+        //
+        var RainbowColors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"];
+        
+        for(var i in Rainbow){
+            document.write(`<span style="color:${RainbowColors[i]}">${Rainbow[i]}</span>`);
+        }
+
+        
+    </script>
+</body>
+
+</html>

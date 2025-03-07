@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 id="timer"></h1>
+
+    <script>
+
+        const timer = document.getElementById("timer");
+
+        
+
+        /* let getNowTime = () => {
+
+            timer.innerText = timeFormat(new Date());
+
+            setTimeout(getNowTime, 1000);
+        }
+
+        let timeFormat = myDate => {
+
+            let hour = myDate.getHours() < 10 ? "0" + myDate.getHours() : myDate.getHours();
+            let min = myDate.getMinutes() < 10 ? "0" + myDate.getMinutes() : myDate.getMinutes();
+            let sec = myDate.getSeconds() < 10 ? "0" + myDate.getSeconds() : myDate.getSeconds();
+
+            let time = hour + ":" + min + ":" + sec;
+
+            return time;
+        }
+
+        getNowTime(); */
+        /////////////////////////////
+
+        //使用prototype增加一個方法
+        let myDate = new Date();
+
+        Date.prototype.timeFormat = function (myTime) {
+
+            let hour = myTime.getHours() < 10 ? "0" + myTime.getHours() : myTime.getHours();
+            let min = myTime.getMinutes() < 10 ? "0" + myTime.getMinutes() : myTime.getMinutes();
+            let sec = myTime.getSeconds() < 10 ? "0" + myTime.getSeconds() : myTime.getSeconds();
+
+            let time = hour + ":" + min + ":" + sec;
+
+            return time;
+        }
+
+
+        Date.prototype.dateFormat = function () {
+            let weekday = ["日", "一", "二", "三", "四", "五", "六"];
+
+            date = this.getFullYear() + "(民國" + (this.getFullYear() - 1911) + ")年" + (this.getMonth() + 1) + "月" + this.getDate() + "日星期" + weekday[this.getDay()];
+
+            return date;
+        }
+
+        //console.log(myDate.dateFormat());
+        //console.log(myDate.timeFormat());
+        //////////////////////////////////////////////////////////////////////
+
+
+        let getNowTime = ()=> {
+
+            timer.innerText = myDate.timeFormat(new Date());
+           
+            setTimeout(getNowTime, 1000);
+        }
+
+        getNowTime();
+    </script>
+</body>
+
+</html>

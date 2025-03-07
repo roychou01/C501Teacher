@@ -1,0 +1,117 @@
+﻿@model MyModel_CodeFirst.Models.Book
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+<div>
+
+    <div class="card mb-4">
+        @* //2.4.9 在Display View中加入未上傳照片的留言之顯示方式 *@
+        @if (Model.Photo != null)
+        {
+            <img src="~/BookPhotos/@Model.Photo" class="card-img-top img-thumbnail" />
+        }
+        <div class="card-body">
+            <h3 class="card-title">@Html.DisplayFor(modelItem => @Model.Title)</h3>
+            @* //2.4.11 在Display View中加入處理「有換行的留言」顯示方式 *@
+            <p class="card-text">@Html.Raw(Model.Description.Replace("\r\n", "<br>"))</p>
+        </div>
+        <div class="card-footer">
+            <p class="text-end">@Html.DisplayFor(modelItem => @Model.Author) 於 @Html.DisplayFor(modelItem => Model.TimeStamp) 發表</p>
+        </div>
+    </div>
+
+</div>
+<hr />
+
+@* //2.5.7 在PostBooks\Display View中將RePostBooks\Create View以Ajax方式讀入 *@
+@* <div id="reBook">
+
+</div>
+ *@
+
+@* //2.5.8 配合Boostrap Modal Component顯示出Create畫面 *@
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ReBookModal">
+    我要回覆
+</button>
+
+<div class="modal fade" id="ReBookModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">我要回覆</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="addReBook()">確定回覆</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="reBookList">
+    @* //2.3.10 編寫Display View，加入VCReBooks ViewComponent *@
+    @await Component.InvokeAsync("VCRebooks", new { bookID = Model.BookID })
+</div>
+<p class="text-end mt-3">
+    <a asp-action="Index">回留言列表</a>
+</p>
+
+
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+
+        //2.5.7 在PostBooks\Display View中將RePostBooks\Create View以Ajax方式讀入
+        //$('#ReBoo').load("/ReBooks/Create");
+
+        //2.5.8 配合Boostrap Modal Component顯示出Create畫面
+        $('#ReBookModal .modal-body').load("/ReBooks/Create?BookID=@(Model.BookID)");//2.5.9 傳遞BookID參數
+       
+
+        var myModal = new bootstrap.Modal(document.getElementById('ReBookModal'));
+
+           //2.5.13 在PostBooks\Display View中撰寫相關的JavaScript程式，以Ajax方式執行新增回覆留言
+        function addReBook(){
+            //以Ajax方式執行新增回覆留言
+
+            //將表單資料進行序列化
+            console.log($('#reBookForm').serialize()); //序列化資料的樣子
+       
+
+            $.ajax({
+                type:'Post',
+                url:'/ReBooks/Create',
+                data:$('#reBookForm').serialize(), //送出序列化資料
+                success:function(){
+                    //1. 清空回覆留言的表單
+                    $('#reBookForm')[0].reset();
+
+                    //2. 把Modal視窗關閉
+                    myModal.hide();
+
+                    //3. 以Ajax方式重新載入回覆留言資料(要在ReBooksController中撰寫自VCRebook ViewComponent取得回覆留言資料的Action)
+                    $('#reBookList').load("/ReBooks/GetRebookByViewComponent/@(Model.BookID)");
+
+                    //4. 重新以Ajax方式載入/ReBooks/Create
+                    $('#ReBookModal .modal-body').load("/ReBooks/Create?BookID=@(Model.BookID)")
+ 
+                },
+                error:function(res){
+                    console.log(res);
+                }
+            });
+
+        }
+
+    </script>
+}
+
+

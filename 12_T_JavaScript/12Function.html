@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <input type="button" value="執行功能1" onclick="Welcome()">
+    <input type="button" value="執行功能2" onclick="getLevelList()">
+    <input type="button" value="執行功能3" onclick="inputStudentNum()">
+
+
+    <script>
+        //結構化程式設計
+        //講解重點:將各功能函數化
+        //調用 , 呼叫
+
+
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        function inputStudentNum(){
+            var num = prompt("請輸入要查詢第幾位學生的成績等第：");
+
+            getLevel(num);
+
+        }
+
+
+        //功能1:顯示歡迎光臨
+        function Welcome() {
+            document.write("歡迎光臨!!");
+        }
+
+        var arrStudentNo = ["S001", "S002", "S003", "S004", "S005", "S006", "S007", "S008", "S009", "S010"];
+        var arrStudentName = ["王小明", "王大明", "王中明", "王右明", "王左明", "王上明", "王下明", "張三", "李四", "王五"];
+        var arrStudentScore = [92, 87, 56, 68, 85, 83, 77, 71, 85, 93];
+        var arrLevel = ["優等", "優等", "甲等", "乙等", "丙等", "丁等", "丁等", "丁等", "丁等", "丁等", "丁等"];
+
+
+        //功能2:取得學生等第資料列表
+        function getLevelList() {
+            for (var i in arrStudentName) {
+                
+                getResult(i);
+
+            }
+        }
+
+        //功能3:取得某學生等第資料
+        function getLevel(i) {
+
+            i -= 1;
+
+            getResult(i);
+
+        }
+
+
+        //功能2及功能3的結果呈現
+       
+        function getResult(i) {
+            var index = 0, level = "";
+
+            index = 10 - parseInt(arrStudentScore[i] / 10);
+            level = arrLevel[index];
+
+            document.write(`${arrStudentNo[i]}-${arrStudentName[i]}-${level}<br>`);
+        }
+
+
+
+        //主程式
+      /*   Welcome();
+        document.write("<hr>");
+        getLevelList();
+        document.write("<hr>");
+        getLevel(4);
+ */
+
+    </script>
+</body>
+
+</html>

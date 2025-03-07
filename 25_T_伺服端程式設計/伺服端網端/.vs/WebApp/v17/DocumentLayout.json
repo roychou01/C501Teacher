@@ -1,0 +1,2085 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\filters\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\filters\\logfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\models\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\models\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\filters\\loginstatusfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\filters\\loginstatusfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\productlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\productlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\productlist\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\productlist\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\models\\goodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\models\\goodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\goodstore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{873F243B-E6CB-4ED3-BA47-32658198F0AA}|GoodStore\\GoodStore.csproj|solutionrelative:goodstore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\home\\indexrwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\home\\indexrwd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\models\\tstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\models\\tstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\apimodels\\petadoptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\apimodels\\petadoptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\services\\petadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\services\\petadoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\services\\someservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\services\\someservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\controllers\\petadoptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\petadoptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\controllers\\categoriesoldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\categoriesoldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\dtos\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\dtos\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\dtos\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\dtos\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\dtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\dtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\validationattributes\\myvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\validationattributes\\myvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\dtos\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\dtos\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\models\\goodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\goodstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\postbooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\postbooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\wwwroot\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\wwwroot\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\models\\goodstorecontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\goodstorecontext2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mywebapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C404D450-185E-469C-AF3C-AE2997EAC74F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\controllers\\postbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\controllers\\postbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\postbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\postbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\loginsmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\loginsmanage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\controllers\\loginsmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\controllers\\loginsmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\loginsmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\loginsmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\controllers\\booksmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\controllers\\booksmanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\booksmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\booksmanage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\models\\guestbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\components\\vcrebooks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\components\\vcrebooks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\postbooks\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\postbooks\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\controllers\\rebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\controllers\\rebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\models\\rebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\models\\rebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\viewcomponents\\vcrebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\viewcomponents\\vcrebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\components\\vcrebooks\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\components\\vcrebooks\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\components\\vcbookstopthree\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\components\\vcbookstopthree\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\viewcomponents\\vcbookstopthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\viewcomponents\\vcbookstopthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\views\\rebooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\views\\rebooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\controllers\\mystudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\controllers\\mystudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4B31FA-811D-4953-9BD1-9A5A31AF0214}|MyModel_CodeFirst\\MyModel_CodeFirst.csproj|solutionrelative:mymodel_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\models\\dbstudentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\models\\dbstudentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\controllers\\tstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\controllers\\tstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\mystudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\mystudents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\mystudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\mystudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\mystudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\mystudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\mystudents\\indexold.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\mystudents\\indexold.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\viewmodels\\vmtstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\viewmodels\\vmtstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\tstudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\tstudents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\tstudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\tstudents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EC13EC-892D-40AB-8858-59E1F94422A1}|CSharp\\CSharp.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\csharp\\controllers\\varcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EC13EC-892D-40AB-8858-59E1F94422A1}|CSharp\\CSharp.csproj|solutionrelative:csharp\\controllers\\varcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mymodel_dbfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145C6FD7-7881-43EC-8A75-7CEDF84C67E1}|MyModel_DBFirst\\MyModel_DBFirst.csproj|solutionrelative:mymodel_dbfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\controllers\\complexbindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\controllers\\complexbindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\models\\nightmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\models\\nightmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\shared\\_layoutmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\shared\\_layoutmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\myview\\views\\home\\razor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A53DD-263B-44F8-B7F1-9745FF746CA1}|MyView\\MyView.csproj|solutionrelative:myview\\views\\home\\razor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\fileupload\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\fileupload\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\simplebind\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\simplebind\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\complexbind\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\complexbind\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\controllers\\simplebindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\controllers\\simplebindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\default\\showphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\default\\showphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\default\\showphotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\default\\showphotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|d:\\jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\webapp\\mycontroller\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56FE770D-5952-47A9-A6D6-973880565AAA}|MyController\\MyController.csproj|solutionrelative:mycontroller\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogFilter.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Filters\\LogFilter.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Filters\\LogFilter.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Filters\\LogFilter.cs*",
+              "RelativeToolTip": "GoodStore\\Filters\\LogFilter.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:08:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T01:16:18.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginStatusFilter.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Filters\\LoginStatusFilter.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Filters\\LoginStatusFilter.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Filters\\LoginStatusFilter.cs",
+              "RelativeToolTip": "GoodStore\\Filters\\LoginStatusFilter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:06:15.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GoodStore\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:46:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Models\\Member.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\Member.cs",
+              "RelativeToolTip": "GoodStore\\Models\\Member.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABFwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:44:31.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T02:41:07.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Program.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Program.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Program.cs",
+              "RelativeToolTip": "GoodStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:03:54.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "GoodStore\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:32:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductListController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Controllers\\ProductListController.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Controllers\\ProductListController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Controllers\\ProductListController.cs",
+              "RelativeToolTip": "GoodStore\\Controllers\\ProductListController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA6wDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:46:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Models\\Product.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\Product.cs",
+              "RelativeToolTip": "GoodStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:20:40.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Metadata.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\Metadata.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Models\\Metadata.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\Metadata.cs",
+              "RelativeToolTip": "GoodStore\\Models\\Metadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:11:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T00:47:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Models\\Login.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\Login.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Models\\Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:43:56.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T01:20:49.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\ProductList\\Index.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\ProductList\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\ProductList\\Index.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\ProductList\\Index.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwHIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T01:53:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:54:13.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:17:13.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\ProductList\\Cart.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\ProductList\\Cart.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\ProductList\\Cart.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\ProductList\\Cart.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA6wGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T02:40:45.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\appsettings.json",
+              "RelativeDocumentMoniker": "GoodStore\\appsettings.json",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\appsettings.json",
+              "RelativeToolTip": "GoodStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T01:03:04.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAYAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:46:58.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\ProductList\\Details.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\ProductList\\Details.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\ProductList\\Details.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\ProductList\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T01:38:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GoodStoreContext.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\GoodStoreContext.cs",
+              "RelativeDocumentMoniker": "GoodStore\\Models\\GoodStoreContext.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Models\\GoodStoreContext.cs",
+              "RelativeToolTip": "GoodStore\\Models\\GoodStoreContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA2wAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:02:18.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "GoodStore\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\GoodStore\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "GoodStore\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T03:08:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IndexRWD.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\IndexRWD.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Home\\IndexRWD.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\IndexRWD.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Home\\IndexRWD.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:50:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Program.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Program.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Program.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:04:53.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:27:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "tStudent.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Models\\tStudent.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Models\\tStudent.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Models\\tStudent.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Models\\tStudent.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:04:01.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Models\\Book.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\Book.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Models\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:18:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PetAdoptionController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\PetAdoptionController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\PetAdoptionController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\PetAdoptionController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\PetAdoptionController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:32:34.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:55:25.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PetAdoptionData.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\APIModels\\PetAdoptionData.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\APIModels\\PetAdoptionData.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\APIModels\\PetAdoptionData.cs",
+              "RelativeToolTip": "MyWebAPI\\APIModels\\PetAdoptionData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:14:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\appsettings.json",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\appsettings.json",
+              "RelativeToolTip": "MyModel_DBFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T08:02:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PetAdoptionService.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Services\\PetAdoptionService.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Services\\PetAdoptionService.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Services\\PetAdoptionService.cs",
+              "RelativeToolTip": "MyWebAPI\\Services\\PetAdoptionService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:29:44.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SomeService.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Services\\SomeService.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Services\\SomeService.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Services\\SomeService.cs",
+              "RelativeToolTip": "MyWebAPI\\Services\\SomeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:48:20.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriesOLDController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\CategoriesOLDController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\CategoriesOLDController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\CategoriesOLDController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\CategoriesOLDController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:14:05.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Program.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Program.cs",
+              "RelativeToolTip": "MyWebAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBWwC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:56:18.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebAPI\\appsettings.json",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\appsettings.json",
+              "RelativeToolTip": "MyWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T05:41:07.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductPutDTO.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\ProductPutDTO.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\DTOs\\ProductPutDTO.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\ProductPutDTO.cs",
+              "RelativeToolTip": "MyWebAPI\\DTOs\\ProductPutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:03:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:51:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Services\\CategoryService.cs",
+              "RelativeToolTip": "MyWebAPI\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:52:55.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryPutDTO.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\CategoryPutDTO.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\DTOs\\CategoryPutDTO.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\CategoryPutDTO.cs",
+              "RelativeToolTip": "MyWebAPI\\DTOs\\CategoryPutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:02:47.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MyValidator.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\ValidationAttributes\\MyValidator.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\ValidationAttributes\\MyValidator.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\ValidationAttributes\\MyValidator.cs",
+              "RelativeToolTip": "MyWebAPI\\ValidationAttributes\\MyValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:37:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SomeController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\SomeController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\SomeController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\SomeController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\SomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:51:13.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductPostDTO.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\ProductPostDTO.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\DTOs\\ProductPostDTO.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\ProductPostDTO.cs",
+              "RelativeToolTip": "MyWebAPI\\DTOs\\ProductPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T01:34:34.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GoodStoreContext.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\GoodStoreContext.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\GoodStoreContext.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\GoodStoreContext.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\GoodStoreContext.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA2wAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:58:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryPostDTO.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\CategoryPostDTO.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\DTOs\\CategoryPostDTO.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\CategoryPostDTO.cs",
+              "RelativeToolTip": "MyWebAPI\\DTOs\\CategoryPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBWwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:42:21.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:57:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "MyWebAPI\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:54:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:49:51.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:14:59.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\PostBooks\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\PostBooks\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\PostBooks\\Create.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\PostBooks\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA1wA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T03:08:26.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "MyWebAPI\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:42:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GoodStoreContext2.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\GoodStoreContext2.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\GoodStoreContext2.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\GoodStoreContext2.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\GoodStoreContext2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:36:21.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\wwwroot\\htmlpage.html",
+              "RelativeDocumentMoniker": "MyWebAPI\\wwwroot\\htmlpage.html",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\wwwroot\\htmlpage.html",
+              "RelativeToolTip": "MyWebAPI\\wwwroot\\htmlpage.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-17T03:36:38.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:14:45.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyWebAPI\\Models\\Order.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:14:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginsManageController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\LoginsManageController.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Controllers\\LoginsManageController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\LoginsManageController.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Controllers\\LoginsManageController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:38:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBWwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T00:51:57.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\LoginsManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\LoginsManage\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\LoginsManage\\Index.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\LoginsManage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T05:40:16.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PostBooksController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\PostBooksController.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Controllers\\PostBooksController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\PostBooksController.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Controllers\\PostBooksController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:28:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:09:08.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\LoginsManage\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\LoginsManage\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\LoginsManage\\Create.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\LoginsManage\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBWwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T06:22:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\PostBooks\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\PostBooks\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\PostBooks\\Index.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\PostBooks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:53:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T04:54:50.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:27:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\_UserLayout.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\_UserLayout.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\_UserLayout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBWwCkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T02:44:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BooksManageController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\BooksManageController.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Controllers\\BooksManageController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\BooksManageController.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Controllers\\BooksManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAywEYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:17:39.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MyModel_CodeFirst\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-07T04:07:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\BooksManage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\BooksManage\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\BooksManage\\Index.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\BooksManage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T01:22:00.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBWwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T00:56:32.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Default.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Default.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBWwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:04:47.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\PostBooks\\Display.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\PostBooks\\Display.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\PostBooks\\Display.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\PostBooks\\Display.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwGQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T08:15:35.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "VCRebooks.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\ViewComponents\\VCRebooks.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\ViewComponents\\VCRebooks.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\ViewComponents\\VCRebooks.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\ViewComponents\\VCRebooks.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:19:00.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ReBooksController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\ReBooksController.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Controllers\\ReBooksController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Controllers\\ReBooksController.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Controllers\\ReBooksController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:12:50.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GuestBookContext.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\GuestBookContext.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Models\\GuestBookContext.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\GuestBookContext.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Models\\GuestBookContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBWwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:02:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Delete.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Delete.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\Components\\VCReBooks\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAADhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T03:09:32.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ReBook.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\ReBook.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Models\\ReBook.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\ReBook.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Models\\ReBook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T02:43:18.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T03:51:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyModel_CodeFirst\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBmwBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-03T01:38:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Components\\VCBooksTopThree\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\Components\\VCBooksTopThree\\Default.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\Components\\VCBooksTopThree\\Default.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\Components\\VCBooksTopThree\\Default.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T03:07:56.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "VCBooksTopThree.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\ViewComponents\\VCBooksTopThree.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\ViewComponents\\VCBooksTopThree.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\ViewComponents\\VCBooksTopThree.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\ViewComponents\\VCBooksTopThree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBWwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:04:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\ReBooks\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\ReBooks\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\ReBooks\\Create.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\ReBooks\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T01:22:46.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyModel_CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T07:05:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\Models\\SeedData.cs",
+              "RelativeToolTip": "MyModel_CodeFirst\\Models\\SeedData.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAA8wKAAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:59:19.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "dbStudentsContext.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Models\\dbStudentsContext.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Models\\dbStudentsContext.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Models\\dbStudentsContext.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Models\\dbStudentsContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:49:48.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MyStudentsController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\MyStudentsController.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Controllers\\MyStudentsController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\MyStudentsController.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Controllers\\MyStudentsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:04:41.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "MyModel_CodeFirst\\appsettings.json",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "MyModel_CodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T03:22:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\MyStudents\\Edit.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\Edit.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\MyStudents\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBmwDEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T01:46:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\MyStudents\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\Index.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\MyStudents\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBmwEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:36:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Models\\Department.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Models\\Department.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:48:38.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\MyStudents\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\Create.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\MyStudents\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBmwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:39:31.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "tStudentsController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\tStudentsController.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Controllers\\tStudentsController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Controllers\\tStudentsController.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\Controllers\\tStudentsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:43:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IndexOLD.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\IndexOLD.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\MyStudents\\IndexOLD.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\MyStudents\\IndexOLD.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\MyStudents\\IndexOLD.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBmwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:39:07.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "VMtStudent.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\ViewModels\\VMtStudent.cs",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\ViewModels\\VMtStudent.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\ViewModels\\VMtStudent.cs",
+              "RelativeToolTip": "MyModel_DBFirst\\ViewModels\\VMtStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:28:50.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBmwB8AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T02:48:41.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBmwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:59:31.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\tStudents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\tStudents\\Edit.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\tStudents\\Edit.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\tStudents\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:38:39.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\tStudents\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\tStudents\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\tStudents\\Create.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\tStudents\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBmwCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T02:38:19.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyModel_DBFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyModel_DBFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyModel_DBFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:19:18.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "VarController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\CSharp\\Controllers\\VarController.cs",
+              "RelativeDocumentMoniker": "CSharp\\Controllers\\VarController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\CSharp\\Controllers\\VarController.cs",
+              "RelativeToolTip": "CSharp\\Controllers\\VarController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:31:51.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ComplexBindController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Controllers\\ComplexBindController.cs",
+              "RelativeDocumentMoniker": "MyController\\Controllers\\ComplexBindController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Controllers\\ComplexBindController.cs",
+              "RelativeToolTip": "MyController\\Controllers\\ComplexBindController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:39:33.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MyView\\Models\\Login.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Models\\Login.cs",
+              "RelativeToolTip": "MyView\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:59:51.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyView\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAABBwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:15:52.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T01:19:26.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "MyController\\Models\\Member.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Models\\Member.cs",
+              "RelativeToolTip": "MyController\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:47:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "NightMarket.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Models\\NightMarket.cs",
+              "RelativeDocumentMoniker": "MyView\\Models\\NightMarket.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Models\\NightMarket.cs",
+              "RelativeToolTip": "MyView\\Models\\NightMarket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:38:53.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:33:56.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyView\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:45:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyController\\Models\\Category.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Models\\Category.cs",
+              "RelativeToolTip": "MyController\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:59:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyView\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyView\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBmwCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-28T06:23:39.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "_LayoutManager.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Shared\\_LayoutManager.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Shared\\_LayoutManager.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Shared\\_LayoutManager.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Shared\\_LayoutManager.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBmwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T07:24:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MyView\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MyView\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:07:07.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBmwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T08:09:41.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyView\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyView\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:12:43.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:28:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:26:26.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyController\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyController\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:18:02.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T03:08:42.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MyController\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBmwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:27:34.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\FileUpload\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\FileUpload\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\FileUpload\\Create.cshtml",
+              "RelativeToolTip": "MyController\\Views\\FileUpload\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBWwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:50:16.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Razor.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Razor.cshtml",
+              "RelativeDocumentMoniker": "MyView\\Views\\Home\\Razor.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyView\\Views\\Home\\Razor.cshtml",
+              "RelativeToolTip": "MyView\\Views\\Home\\Razor.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:20:11.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyController\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBmwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:08:25.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\ComplexBind\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\ComplexBind\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\ComplexBind\\Create.cshtml",
+              "RelativeToolTip": "MyController\\Views\\ComplexBind\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBmwCAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:14:15.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\SimpleBind\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\SimpleBind\\Create.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\SimpleBind\\Create.cshtml",
+              "RelativeToolTip": "MyController\\Views\\SimpleBind\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T00:57:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "SimpleBindController.cs",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Controllers\\SimpleBindController.cs",
+              "RelativeDocumentMoniker": "MyController\\Controllers\\SimpleBindController.cs",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Controllers\\SimpleBindController.cs",
+              "RelativeToolTip": "MyController\\Controllers\\SimpleBindController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:49:13.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "ShowPhoto.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Default\\ShowPhoto.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\Default\\ShowPhoto.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Default\\ShowPhoto.cshtml",
+              "RelativeToolTip": "MyController\\Views\\Default\\ShowPhoto.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBmwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T03:14:51.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "ShowPhotos.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Default\\ShowPhotos.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\Default\\ShowPhotos.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Default\\ShowPhotos.cshtml",
+              "RelativeToolTip": "MyController\\Views\\Default\\ShowPhotos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:45:06.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyController\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\Jenhung\\\u4E0A\u8AB2\u7BC4\u4F8B\u6A94\\\u8077\u524D\\11302\\WebApp\\MyController\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyController\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:47:24.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

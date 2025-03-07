@@ -1,0 +1,25 @@
+﻿@model GoodStore.Models.Product
+
+@{
+    Layout = null;
+}
+
+<div class="card">
+    <div class="row">
+        <div class="col-xl-6">
+            <img src="/ProductPhotos/@(Model.Picture)" class="img-thumbnail" />
+        </div>
+        <div class="col-xl-6">
+            <div class="card-body">
+                <h1 class="fw-bold">@Model.ProductName</h1>
+                <h4 class="text-secondary">@(Model.Cate.CateName)類</h4>
+                <p class="p-1">@Model.Description</p>
+                <p class="text-secondary">原價:<del>@($"{Model.Price * 2:C0}")</del></p>
+                <h2 class="text-danger fw-bold">@Html.DisplayFor(modelItem => modelItem.Price)</h2>
+                <hr />
+                <button class="btn btn-success btn-lg" onclick="addCart('@Model.ProductID','@Model.ProductName',@Model.Price,'@Model.Picture')"><i class="bi bi-cart4"></i>加入購物車</button>
+                <button class="btn btn-danger btn-lg" ><i class="bi bi-heart"></i>加入我的最愛</button>
+            </div>
+        </div>
+    </div>
+</div>

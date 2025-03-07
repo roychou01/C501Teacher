@@ -1,0 +1,21 @@
+﻿@* //2.3.8 在Default View上方加入@model IEnumerable<MyModel_CodeFirst.Models.ReBook> *@
+@model IEnumerable<MyModel_CodeFirst.Models.ReBook>
+
+@{
+    Layout = null;
+}
+
+@* //2.4.12 在VCReBook View Component的Default View中加入沒有回覆留言即不顯示的判斷 *@
+@if (Model.Count() != 0)
+{
+    @* //2.3.9 依喜好編輯Default View排版方式 *@
+    <h5 class="text-center">回覆內容</h5>
+    <div class="border border-1 rounded p-4 bg-light">
+        @foreach (var item in Model)
+        {
+            <p>@Html.Raw( @item.Description.Replace("\r\n","<br>"))</p>
+            <p class="text-end">@Html.DisplayFor(modelItem => @item.Author) 於 @Html.DisplayFor(modelItem => @item.TimeStamp) 回覆</p>
+            <hr />
+        }
+    </div>
+}

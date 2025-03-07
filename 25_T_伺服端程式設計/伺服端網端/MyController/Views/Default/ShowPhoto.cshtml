@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowPhoto</title>
+    <style>
+        div,h3{
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    @Html.Raw(ViewData["Show"])
+    <hr />
+    <a href="/Default/ShowPhotos">顯示全部照片</a>
+</body>
+</html>

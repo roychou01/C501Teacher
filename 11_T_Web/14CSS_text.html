@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Welcome My Homepage!!</h1>
+    <h1 style="text-decoration: overline;">Welcome My Homepage!!</h1>
+    <h1 style="text-decoration: underline;">Welcome My Homepage!!</h1>
+    <h1 style="text-decoration: line-through;">Welcome My Homepage!!</h1>
+    <hr>
+
+    <h1 style="text-decoration: none;">Welcome My Homepage!!</h1>
+    <span>aaaaa</span>
+    <u style="text-decoration: none;border:1px solid black">Welcome My Homepage!!</u>
+    <hr>
+    <a href=""
+        style="text-decoration: none;font-size: 2rem;font-weight: 900;color: black;cursor: text;display: block;margin-bottom: 16px;">
+        Welcome My Homepage!!</a>
+    <span>aaaaa</span>
+
+    <hr>
+
+    <a href=""
+        style="font-family: webdings;font-size: 5rem;text-decoration: none;color:darkorange;border: 3px solid darkorange;box-shadow:5px 5px 15px black;border-radius: 10px;">a</a>
+
+    <hr style="width: 500px;background-color: red;height: 100px;">
+
+    <div style="border:1px solid black">這是測試</div>
+    <div style="border:1px solid black;text-align: center;">這是測試</div>
+    <div style="border:1px solid black;text-align: right;">這是測試</div>
+
+    <hr>
+    <div style="height: 200px; background-color:rgb(19, 179, 152)">
+
+    </div>
+    <hr>
+    <input type="button" value="小" id="btn1">
+    <input type="button" value="中" id="btn2">
+    <input type="button" value="大" id="btn3">
+
+    <div id="news">
+        苗栗縣立圖書館於10月11日下午1點30分辦理「銀向樂活—樂齡講座-從空中看台灣」講座，邀請齊柏林基金會董事齊廷洹主講，徐姓承辦人要傳給家人，卻誤傳給齊廷洹Line，寫著「齊柏林導演的兒子30歲」、「靠老爸的餘蔭就能吃一輩子」等字句，齊廷洹認為遭到羞辱難以忍受，當場停止演講離開，事件引發熱議。
+    </div>
+
+    <script>
+        var btn1 = document.getElementById("btn1");
+        var btn2 = document.getElementById("btn2");
+        var btn3 = document.getElementById("btn3");
+        var news = document.getElementById("news");
+
+        btn1.addEventListener('click',function(){
+            news.style.fontSize="1rem";
+        })
+
+        btn2.addEventListener('click',function(){
+            news.style.fontSize="1.5rem";
+        })
+
+        btn3.addEventListener('click',function(){
+            news.style.fontSize="2rem";
+        })
+        
+
+    </script>
+</body>
+
+</html>

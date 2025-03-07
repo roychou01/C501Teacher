@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音樂播放器</title>
+
+    <link rel="stylesheet" href="player.css">
+</head>
+
+<body>
+
+    <audio id="audio" src="music/airball.mp3" title="周杰倫-告白汽球" onended="musicStatus()"></audio>
+
+
+    <div id="controlPanel">
+        <select onchange="changeMusic(0)">
+            <option value="music/airball.mp3">周杰倫-告白汽球</option>
+            <option value="music/elysees.mp3">Elysees</option>
+            <option value="music/nothing.mp3">Nothing Ganna Change My Love For You</option>
+            <option value="music/moon.mp3">五月天-私奔到月球</option>
+            <option value="music/rain.mp3">Rhythm Of The Rain</option>
+            <option value="music/travel.mp3">校長-帶你去旅行</option>
+        </select>
+        <hr>
+        <span onclick="playMusic()">4</span>
+        <!--  <span onclick="pauseMusic()">暫停音樂</span> -->
+        <span onclick="stopMusic()">&lt;</span>
+        <span onclick="changeMusic(-1)">9</span>
+        <span onclick="changeTime(-10)">7</span>
+        <span onclick="changeTime(10)">8</span>
+        <span onclick="changeMusic(1)">:</span>
+        <span onclick="setMute()">V</span>
+        <span onclick="setCircle()">q</span>
+        <span onclick="setRandom()">s</span>
+        <span onclick="setAllLoop()">`</span>
+        <hr>
+
+        <input type="range" value="70" oninput="setVolumeByRangeBar()">
+        <input type="button" value="-" onclick="setVolume(-1)">
+        <input type="button" value="+" onclick="setVolume(1)">
+        <input type="text" readonly>
+        <hr>
+        <input type="range" value="0" oninput="setProgress()">
+        <hr>
+        <div>00:00 / 00:00</div>
+        <div>歡迎使用我的播放器</div>
+        <div>正常</div>
+    </div>
+
+    <script src="player.js"></script>
+</body>
+
+</html>

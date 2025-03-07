@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #container {
+            margin: auto;
+            width: 1266px;
+            position: relative;
+            z-index: 100;
+        }
+
+        #container>section {
+            display: flex;
+
+        }
+
+        #container>section>nav {
+            width: 209px;
+
+        }
+
+        #container>section>article {
+            width: 1057px;
+
+        }
+
+        #ad1 {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+
+        #ad2 {
+            position: fixed;
+            top: 0;
+            right: 0;
+        }
+
+        #ad3 {
+            box-shadow: 0 0 10px black;
+            position: absolute;
+            top: 150px;
+            left: 106px;
+            z-index: 200;
+        }
+
+        #ad3>span {
+            background-color: pink;
+            color: red;
+            padding: 10px;
+            cursor: pointer;
+            
+        }
+
+        .hide{
+            display: none;
+        }
+
+    </style>
+</head>
+
+<body>
+   
+
+
+    <div id="container">
+        <header>
+            <img src="CSS/top.jpg">
+        </header>
+        <section>
+            <nav>
+                <img src="CSS/left.jpg">
+            </nav>
+            <article>
+                <img src="CSS/right.jpg">
+            </article>
+        </section>
+        <footer>
+            <img src="CSS/bottom.jpg">
+        </footer>
+        <div id="ad3">
+            <span onclick="ad3Hidden()">點我關閉</span><br>
+            <img src="css/ad.jpg">
+        </div>
+    </div>
+
+    <img src="css/banner1.jpg" id="ad1">
+    <img src="css/banner2.jpg" id="ad2">
+
+    <script>
+
+        function ad3Hidden() {
+            var ad3 = document.getElementById("ad3");
+
+            ad3.className="hide";
+        }
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+@* <form action="/FileUpload/Create" method="post"> *@
+<form asp-action="Create" enctype="multipart/form-data">
+    <p class="col-xl-4 col-md-6">照片上傳:<input type="file" class="form-control" name="photo" id="photo" required /></p>
+    <p><input type="submit" value="上傳" class="btn btn-primary" /></p>
+</form>
+<hr />
+@ViewData["Message"]

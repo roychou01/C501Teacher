@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "我的購物車";
+}
+
+<h1 class="text-center text-primary bg-light p-3 fw-bold">@ViewData["Title"]</h1>
+
+<table id="myCart" class="table">
+    <thead>
+        <tr>
+            <th>序號</th>
+            <th>照片</th>
+            <th>品名</th>
+            <th>數量</th>
+            <th>單價</th>
+            <th>小計</th>
+            <th>刪除</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+
+
+@section Scripts {
+    <script>
+        let arrCart=[];
+
+        arrCart = JSON.parse(localStorage.getItem("cart"));
+
+        console.log(arrCart);
+
+        let toNTD = new Intl.NumberFormat('zh-TW'  , {
+            style:'currency',
+            currency:'TWD',
+            minimumFractionDigits:0
+        } );
+
+
+
+
+        if(arrCart==null){
+            $('#myCart').html(`<h2 class="text-danger text-center fw-bold">目前購物車是空的</h2>`);
+        }
+        else
+        {
+
+            getCartList();
+        }
+
+        function getCartList(){
+            let c=1;
+            let items="";
+            let sum=0;
+            for(let item of arrCart){
+
+             items+=   `
+                    <tr>
+                        <td>${c}</td>
+                        <td> <img src="/ProductPhotos/${item.Picture}" width="150"> </td>
+                        <td><h3>${item.PName}</h3></td>
+                        <td> <input type="number" min="1" class="form-control text-center" value="${item.Qty}" style="width:60px" oninput="updateQty(event,${c-1})" /> </td>
+                        <td><h4 class="text-danger">NT${toNTD.format(item.Price)}</h4></td>
+                        <td><h4 class="text-danger">NT${toNTD.format(item.Qty*item.Price)}</h4></td>
+                        <td><button class="btn btn-outline-danger" onclick="delCartItem(${c-1})"><i class="bi bi-trash3-fill"></i></button></td>
+                    </tr>
+                `
+                c++;
+                sum+=item.Qty*item.Price;
+            }
+              items+=` <tr>
+                  <td colspan="7" class="bg-light"><h3 class="text-danger text-end fw-bold">總額：NT${toNTD.format(sum)}</h3></td>
+                </tr>`
+
+            $('#myCart>tbody').html(items);
+        }
+
+
+        function updateQty(evt,sn){
+            //1. 把數量回寫localstorage
+            let newQty=evt.target.value;
+
+            console.log(newQty);
+            arrCart[sn].Qty= parseInt(newQty);
+            localStorage.setItem("cart", JSON.stringify(arrCart));
+
+            //2. 介面的小計要更新
+            getCartList();
+
+        }
+
+        function delCartItem(sn){
+
+            if(confirm('確定移除此商品嗎？')){
+                arrCart.splice(sn , 1);
+                localStorage.setItem("cart", JSON.stringify(arrCart));
+                getCartList();
+            }
+
+        }
+
+
+    </script>
+}
+

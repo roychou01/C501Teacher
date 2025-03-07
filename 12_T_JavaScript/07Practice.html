@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        /////////////////////////////////
+        //雞兔同籠
+        //已知雞兔共35隻,雞兔的腳共94支,請問籠子裡雞兔各有幾隻?
+
+        /*      var x, y;
+     
+             x + y == 35;
+     
+             y = 35 - x; */
+
+        for (var x = 0; x <= 35; x++) {
+            if (2 * x + 4 * (35 - x) == 94) {
+                document.write("雞的數量為" + x + ",兔子的數量為" + (35 - x));
+                break;
+            }
+        }
+
+        ///////////////////////////
+        document.write("<hr>");
+        //費氏數列
+        //1,1,2,3,5,8,13,21,34,...........
+        //已知第一個數和第二個數為1
+        //第n為第n-1+第n-2
+        //請撰寫一個程式,能找出第n數為數列上的哪一個數字
+
+        //n1=1, n2=1, n3=n1+n2, n4=n1+n2+n2, n5=n1+n2+n2+n1+n2
+        //第n個數=(n-1)+(n-2)
+
+        /*
+        var n1=1;
+        var n2=1;
+        var n3=n2+n1;
+        var n4=n3+n2;
+        var n5=n4+n3;
+
+        document.write(n5);
+        .
+        .
+        .
+        .
+        .
+        .
+        .
+        var n200=n199+n198;
+        var n201=n200+n199; */
+
+
+        //設x為n-2,y為n-1, r為現在的數,也就是n
+        var x = 1, y = 1;
+        var r = 0;
+
+        var n = parseInt(prompt("譿輸入您要找第幾個數的值"));
+
+       
+
+        for (var i = 1; i <= n - 2; i++) {
+            r = y + x;
+            x = y;
+            y = r;
+        }
+
+        document.write("費氏數列的第" + n + "個數為" + r);
+
+
+    </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyModel_CodeFirst</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MyModel_CodeFirst.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <div class="container">
+        <header class="row">
+            @* //3.3.2 修改_UserLayout的選單內容及呈現方式 *@
+            <div class="col-11">
+                <div class="btn-group btn-lg" role="group" aria-label="Button group with nested dropdown">
+                    <a asp-action="Index" asp-controller="Home" type="button" class="btn btn-primary btn-lg"><i class="bi bi-house-door"></i> 回首頁</a>
+                    <a asp-action="Privacy" asp-controller="Home" type="button" class="btn btn-primary btn-lg"><i class="bi bi-info-square"></i> 隱私權</a>
+
+                    <div class="btn-group dropdown" role="group">
+                        <button type="button" class="btn btn-primary btn-lg dropdown-toggle" data-bs-toggle="dropdown">
+                            <i class="bi bi-journal-richtext"></i> 訪客留言板
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-item"><a class="dropdown-item" asp-action="Index" asp-controller="PostBooks"><i class="bi bi-journal-plus"></i> 留言列表</a></li>
+                            <li class="dropdown-item"><a class="dropdown-item" asp-action="Create" asp-controller="PostBooks"><i class="bi bi-journal-plus"></i> 新增留言</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            @*  //5.3.2 在_UserLayout.cshtml中加入登入後台的按鈕 *@
+            <div class="col-1">
+                @if (Context.Session.GetString("Manager") == null)
+                {
+                    <a asp-action="Login" asp-controller="Login" type="button" class="btn btn-outline-danger"><i class="bi bi-person-fill"></i> 登入</a>
+                }
+                else
+                {
+                    <a asp-action="Logout" asp-controller="Login" type="button" class="btn btn-danger">登出</a>
+                }
+            </div>
+        </header>
+        <main role="main" class="pb-3 mt-4">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container text-center">
+            &copy; 2024 - MyModel_CodeFirst - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

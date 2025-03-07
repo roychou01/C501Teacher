@@ -1,0 +1,205 @@
+﻿@model IEnumerable<GoodStore.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row">
+    <div class="col-md-3 col-xl-2 d-md-grid gap-2">
+        <button class="btn btn-outline-success" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCateList"> <i class="bi bi-search"></i>分類篩選</button>
+    </div>
+    <div class="col-md-9 col-xl-10">
+        <input type="text" id="searchInput" class="form-control" placeholder="請輸入關鍵字搜尋商品....." />
+    </div>
+</div>
+<hr />
+<div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" id="offcanvasCateList">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title fw-fold" id="offcanvasCateListLabel">商品分類</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div class="list-group">
+            <a asp-action="Index" class="list-group-item list-group-item-action">全部商品</a>
+            @foreach (var item in ViewBag.Cate)
+            {
+                <a asp-action="Index" asp-route-CateID="@item.CateID" class="list-group-item list-group-item-action">@item.CateName</a>
+            }
+        </div>
+    </div>
+</div>
+
+
+
+<div class="row">
+
+    @if (!Model.Any())
+    {
+        <h2 class="text-danger text-center fw-bold"><i class="bi bi-cart4"></i> 此類別目前沒有商品 <i class="bi bi-cart4"></i></h2>
+    }
+
+
+    @foreach (var item in Model)
+    {
+        <div class="col-xl-3 col-md-6 mb-4 products" data-myself-keyword="@item.ProductName@item.Description@item.Cate.CateName">
+            <div class="card" style="height:100%">
+                <div style="height:100%" data-bs-toggle="modal" data-bs-target="#productDetailModal" onclick="showDetail('@item.ProductID')">
+                    <img src="/ProductPhotos/@(item.Picture)" class="img-thumbnail" />
+                    <div class="card-body" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="top" data-bs-trigger="hover" data-bs-content="@item.Description">
+                        <h5 class="lead">@(item.Cate.CateName)類</h5>
+                        <h3 class="fw-bold">@item.ProductName</h3>
+                        <h4 class="text-danger fw-bold text-end">@Html.DisplayFor(modelItem => item.Price)</h4>
+                    </div>
+                </div>
+                <div class="card-footer">
+
+                    <div class="d-grid gap-2">
+                        <div class="btn-group">
+                            <button class="btn btn-outline-success" onclick="addCart('@item.ProductID','@item.ProductName',@item.Price,'@item.Picture')" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="加入購物車"><i class="bi bi-cart4"></i></button>
+                            <button class="btn btn-outline-danger" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="加入我的最愛"><i class="bi bi-heart"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+<div class="toast-container position-fixed top-0 end-0 p-3">
+    <div id="addCartToast" class="toast align-items-center text-bg-warning border-0" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="d-flex">
+            <div class="toast-body fs-5">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="CartStatus" class="position-fixed bottom-0 end-0 m-xl-5 pe-lx-5 m-md-3 pe-md-3 m-1 pe-1" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="點我查看購物車內容">
+    <a asp-action="Cart">
+        <i class="bi bi-cart4 fs-1 text-primary"></i>
+        <span class="position-absolute top-0 start-50 translate-middle badge rounded-pill bg-danger">
+
+        </span>
+    </a>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="productDetailModal">
+    <div class="modal-dialog modal-xl modal-dialog-centered">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"><i class="bi bi-door-open"></i> 離開</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+
+    <script>
+
+        const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+        const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
+        const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+        const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+        
+        
+        function showDetail(id){
+
+            $('#productDetailModal .modal-body').html(` <div class="text-center"><div class="spinner-border"></div> Loading...</div>`);
+            $('#productDetailModal .modal-body').load(`/ProductList/Details/${id}`);
+        }
+
+
+        $('#searchInput').on('input',function(){
+            let keyword = $(this).val().toLowerCase();
+
+            $('.products').each(function(){
+                let productInfo = $(this).data('myself-keyword').toLowerCase();
+                if(productInfo.indexOf(keyword)>=0){
+                    $(this).show(500);
+                }
+                else{
+                    $(this).hide(500);
+                }
+            });
+        });
+
+
+
+        function shadow1(){
+            $('#CartStatus').css({
+                'text-shadow':'0 0 10px orange'
+
+            });
+            setTimeout(shadow2,300);
+
+        }
+        //shadow1()
+
+        function shadow2(){
+             $('#CartStatus').css({
+                'text-shadow':'0 0 10px white'
+
+            });
+              setTimeout(shadow1,300);
+        }
+
+        const addCartToast = document.getElementById('addCartToast')
+        const toastBootstrap = bootstrap.Toast.getOrCreateInstance(addCartToast)
+
+
+        let arrCart=[];
+
+        if(localStorage.getItem("cart"))
+            arrCart = JSON.parse(localStorage.getItem("cart"));
+
+         $('#CartStatus span').text(arrCart.length);
+
+         if(arrCart.length>0)
+            shadow1();
+
+        function addCart(productID, productName, price, picture){
+
+            let result = arrCart.find(item=>item.PID==productID);  //如果沒有找到資料回傳undefined
+            console.log(result);
+
+            if(result==undefined){
+                //alert('商品已加入購物車');
+                $('#addCartToast .toast-body').html("【"+productName+"】已加入購物車 <i class='bi bi-save'></i>");
+                toastBootstrap.show()
+                //把所加入購物車商品資訊寫入LocalStorage
+                let newItem={
+                    PID:productID,
+                    PName:productName,
+                    Price:price,
+                    Picture:picture,
+                    Qty:1
+                }
+                arrCart.push(newItem);
+
+                $('#CartStatus span').text(arrCart.length);
+                console.log(arrCart);
+                  shadow1();
+                localStorage.setItem( "cart" , JSON.stringify(arrCart)  );
+            }
+            else{
+                result.Qty+=1;
+                localStorage.setItem( "cart" , JSON.stringify(arrCart)  );
+                $('#addCartToast .toast-body').html("【"+productName+"】數量已更新");
+                toastBootstrap.show();
+            }
+        }
+
+    </script>
+
+
+}

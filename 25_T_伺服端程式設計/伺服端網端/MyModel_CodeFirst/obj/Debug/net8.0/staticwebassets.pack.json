@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyModel_CodeFirst.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyModel_CodeFirst.9phcwfr9en.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\00438f5a-4a05-4832-b04a-f9f85eca4515.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\00438f5a-4a05-4832-b04a-f9f85eca4515.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\30667cce-b536-41bf-8595-16f7af4e29d7.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\30667cce-b536-41bf-8595-16f7af4e29d7.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\3f0e22e2-3bad-43a5-835a-76fe22c4a466.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\3f0e22e2-3bad-43a5-835a-76fe22c4a466.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\46661a93-4f84-40b2-a84e-dd173d7a547d.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\46661a93-4f84-40b2-a84e-dd173d7a547d.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\9a8c4ea7-9ce7-46c9-be1c-28ada8bcb6de.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\9a8c4ea7-9ce7-46c9-be1c-28ada8bcb6de.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\9e04ee2f-c4dc-4648-8671-3ef3096241bf.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\9e04ee2f-c4dc-4648-8671-3ef3096241bf.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\BookPhotos\\fb2e464e-1868-45f4-a9e1-a2e4c88a14e9.jpg",
+      "PackagePath": "staticwebassets\\BookPhotos\\fb2e464e-1868-45f4-a9e1-a2e4c88a14e9.jpg"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\MyModel_CodeFirst\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyModel_CodeFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyModel_CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyModel_CodeFirst.props",
+      "PackagePath": "build\\MyModel_CodeFirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyModel_CodeFirst.props",
+      "PackagePath": "buildMultiTargeting\\MyModel_CodeFirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyModel_CodeFirst.props",
+      "PackagePath": "buildTransitive\\MyModel_CodeFirst.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

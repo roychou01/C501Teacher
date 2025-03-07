@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        //區分等第
+        //90分以上為優等, 80~89分為甲等, 70~79分為乙等, 60~69分為丙等, 60分以下為丁等
+        //輸出範例:
+        //S001-王小明-優等
+        //S002-王大明-甲等
+        //S003-王中明-丁等
+
+        var arrStudentNo = ["S001", "S002", "S003", "S004", "S005", "S006", "S007", "S008", "S009", "S010"];
+        var arrStudentName = ["王小明", "王大明", "王中明", "王右明", "王左明", "王上明", "王下明", "張三", "李四", "王五"];
+        var arrStudentScore = [92, 87, 56, 68, 85, 83, 77, 71, 85, 93];
+
+        var arrLevel = ["優等", "優等", "甲等", "乙等", "丙等", "丁等", "丁等", "丁等", "丁等", "丁等", "丁等"];
+
+        var level = "", index = 0;
+
+        /*  for (var i in arrStudentName) {
+ 
+             if (arrStudentScore[i] >= 90) {
+                 level = "優等";
+             }
+             else if (arrStudentScore[i] >= 80) {
+                 level = "甲等";
+             }
+             else if (arrStudentScore[i] >= 70) {
+                 level = "乙等";
+             }
+             else if (arrStudentScore[i] >= 60) {
+                 level = "丙等";
+             }
+             else {
+                 level = "丁等";
+             }
+ 
+             document.write(`${arrStudentNo[i]}-${arrStudentName[i]}-${level}<br>`);
+         } */
+
+        //迴圈裡不可以用if或swith等判斷式
+
+        for (var i in arrStudentName) {
+            //arrStudentScore[i]
+            /* 10-parseInt(100/10);  //0
+            10-parseInt(92/10);  //1
+            10-parseInt(85/10);  //2
+            10-parseInt(72/10);  //3 */
+
+            index = 10 - parseInt(arrStudentScore[i] / 10);
+            level = arrLevel[index];
+
+            document.write(`${arrStudentNo[i]}-${arrStudentName[i]}-${level}<br>`);
+        }
+
+    </script>
+</body>
+
+</html>

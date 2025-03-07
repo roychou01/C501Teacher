@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h2 id="timer"></h2>
+    <h1 id="colock"></h1>
+
+
+    <script>
+
+        const timer = document.getElementById("timer");
+        const colock = document.getElementById("colock");
+
+
+        // Classless
+        function timeFormat(myDate) {
+
+            let hour = myDate.getHours() < 10 ? "0" + myDate.getHours() : myDate.getHours();
+            let min = myDate.getMinutes() < 10 ? "0" + myDate.getMinutes() : myDate.getMinutes();
+            let sec = myDate.getSeconds() < 10 ? "0" + myDate.getSeconds() : myDate.getSeconds();
+
+            let time = hour + ":" + min + ":" + sec;
+
+            return time;
+        }
+
+        function dateFormat(myDate) {
+            let weekday = ["日", "一", "二", "三", "四", "五", "六"];
+
+            date = myDate.getFullYear() + "(民國" + (myDate.getFullYear() - 1911) + ")年" + (myDate.getMonth() + 1) + "月" + myDate.getDate() + "日星期" + weekday[myDate.getDay()];
+
+            return date;
+        }
+
+        let myDate = new Date(); //用設計圖鑄造出物件
+        let dateResult = dateFormat(myDate);
+
+        function getNowTime() {
+
+            timer.innerText = dateResult + " " + timeFormat(new Date());
+
+            setTimeout(getNowTime, 1000);
+        }
+
+        getNowTime();
+
+
+        function abc(){
+            colock.innerText = timeFormat(new Date());
+            setTimeout(abc, 1000);
+        }
+       abc();
+
+
+       
+    </script>
+</body>
+
+</html>

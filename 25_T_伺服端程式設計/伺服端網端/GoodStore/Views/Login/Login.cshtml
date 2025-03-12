@@ -5,8 +5,13 @@
 }
 
 <h1>Login</h1>
+@if (TempData["RegisterMessage"] != null)
+{
+    <h4 class="alert alert-danger">註冊會員成功，請登入後開始使用</h4>
+}
+<div>
 
-<h4>Member</h4>
+</div>
 <hr />
 <div class="row">
     <div class="col-md-4">

@@ -8,7 +8,13 @@ namespace GoodStore.Filters
     {
         public void OnActionExecuting(ActionExecutingContext context)
         {
-            
+            var MemberJson = context.HttpContext.Session.GetString("MemberInfo");
+
+            if (MemberJson != null)
+            {
+                var MemberInfo = JsonConvert.DeserializeObject<Member>(MemberJson);
+                context.HttpContext.Items["Member"]= MemberInfo;
+            }
         }
         public void OnActionExecuted(ActionExecutedContext context)
         {

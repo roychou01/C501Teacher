@@ -41,6 +41,7 @@ public partial class GoodStoreContext : DbContext
 
             entity.Property(e => e.MemberID)
                 .HasMaxLength(6)
+                .HasDefaultValueSql("([dbo].[fnGetNewMemberID]())")
                 .IsFixedLength();
             entity.Property(e => e.Account).HasMaxLength(12);
             entity.Property(e => e.Name).HasMaxLength(27);

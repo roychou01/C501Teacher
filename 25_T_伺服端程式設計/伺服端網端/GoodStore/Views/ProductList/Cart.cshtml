@@ -70,6 +70,9 @@
             }
               items+=` <tr>
                   <td colspan="7" class="bg-light"><h3 class="text-danger text-end fw-bold">總額：NT${toNTD.format(sum)}</h3></td>
+                </tr>
+                <tr>
+                  <td colspan="7" class="text-end"><a href="/Orders/Create" class="btn btn-lg btn-success"><i class="bi bi-cash-coin"></i> 我要結帳</a></td>
                 </tr>`
 
             $('#myCart>tbody').html(items);

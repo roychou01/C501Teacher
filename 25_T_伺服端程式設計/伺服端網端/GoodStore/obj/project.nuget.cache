@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vcC1663LZG4=",
+  "dgSpecHash": "usZg1DKOJ8s=",
   "success": true,
-  "projectFilePath": "H:\\Teacher\\伺服端\\GoodStore\\GoodStore.csproj",
+  "projectFilePath": "D:\\Jenhung\\上課範例檔\\職前\\11302\\WebApp\\GoodStore\\GoodStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
